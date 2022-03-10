@@ -1,4 +1,4 @@
-# RLabs Theme collection for VSCode
+# RLabs themes collection for VSCode
 
 A collection of themes made by RLabs Inc.
 
