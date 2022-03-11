@@ -14,19 +14,24 @@
   "contributes": {
     "themes": [
       {
-        "label": "Originak",
+        "label": "RLabs Earth",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Earth-color-theme.json"
+      },
+      {
+        "label": "RLabs Original",
         "uiTheme": "vs-dark",
         "path": "./themes/Original-color-theme.json"
       },
       {
-        "label": "Splash",
+        "label": "RLabs Splash Darker",
         "uiTheme": "vs-dark",
-        "path": "./themes/Splash-color-theme.json"
+        "path": "./themes/Splash Darker-color-theme.json"
       },
       {
-        "label": "Earth",
+        "label": "RLabs Splash",
         "uiTheme": "vs-dark",
-        "path": "./themes/Earth-color-theme.json"
+        "path": "./themes/Splash-color-theme.json"
       }
     ]
   },
