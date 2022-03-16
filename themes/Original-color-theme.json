@@ -1,6 +1,5 @@
 {
-  "$schema": "vscode://schemas/color-theme",
-  "name": "RLabs Syntax Theme",
+  "name": "Original Theme",
   "type": "dark",
   "semanticClass": "theme.rlabs",
   "semanticHighlighting": true,
