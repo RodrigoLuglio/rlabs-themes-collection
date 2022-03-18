@@ -14,9 +14,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "RLabs Under",
+        "label": "RLabs Shade",
         "uiTheme": "vs-dark",
-        "path": "./themes/Under-color-theme.json"
+        "path": "./themes/Shade-color-theme.json"
       }
     ]
   },
