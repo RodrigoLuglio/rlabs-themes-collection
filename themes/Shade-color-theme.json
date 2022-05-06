@@ -14,7 +14,6 @@
     "activityBar.inactiveForeground": "#aaaaaa",
     "activityBarBadge.background": "#d3b88e",
     "activityBarBadge.foreground": "#101010",
-    "activityBar.activeFocusBorder": "#ff0000",
 
     /*-------------------------------------------------------
       Badges
@@ -275,15 +274,15 @@
     "terminal.ansiBlue": "#78a4bd",
     "terminal.ansiBrightBlack": "#aaaaaa",
     "terminal.ansiBrightBlue": "#A6D9F7",
-    "terminal.ansiBrightCyan": "#9cbec5",
-    "terminal.ansiBrightGreen": "#d3b88e",
-    "terminal.ansiBrightMagenta": "#95B8D1",
+    "terminal.ansiBrightCyan": "#9cc5c4",
+    "terminal.ansiBrightGreen": "#96fed0",
+    "terminal.ansiBrightMagenta": "#b595d1",
     "terminal.ansiBrightRed": "#ff7575",
     "terminal.ansiBrightWhite": "#c9c6c9",
     "terminal.ansiBrightYellow": "#FFEFB7",
     "terminal.ansiCyan": "#76a9ac",
-    "terminal.ansiGreen": "#7BD19E",
-    "terminal.ansiMagenta": "#d39cc6",
+    "terminal.ansiGreen": "#7bd1aa",
+    "terminal.ansiMagenta": "#85669f",
     "terminal.ansiRed": "#FF8686",
     "terminal.ansiWhite": "#ffffff",
     "terminal.ansiYellow": "#FFC59E",
@@ -350,7 +349,7 @@
     //"editor.inactiveSelectionBackground": "#6579653d",
     //"editor.inlineValuesBackground": "#ffc80033",
     //"editor.inlineValuesForeground": "#ffffff80",
-    //"editor.linkedEditingBackground": "#ff00004d",
+    //"editor.linkedEditingBackground": "#ff75754d",
     //"editor.stackFrameHighlightBackground": "#ffff0033",
     //"editor.symbolHighlightBackground": "#ffffff40",
     //"editorActiveLineNumber.foreground": "#c6c6c6",
@@ -605,7 +604,7 @@
     //"testing.iconSkipped": "#848484",
     //"testing.iconUnset": "#848484",
     //"testing.message.error.decorationForeground": "#FF8686",
-    //"testing.message.error.lineBackground": "#ff000033",
+    //"testing.message.error.lineBackground": "#ff757533",
     //"testing.message.info.decorationForeground": "#ffffff80",
     //"testing.peekBorder": "#FF8686",
     //"testing.peekHeaderBackground": "#FF86861a",
@@ -939,7 +938,7 @@
       "name": "Invalid Stuff",
       "scope": ["invalid"],
       "settings": {
-        "foreground": "#FF0000"
+        "foreground": "#ff7575"
         // "fontStyle": "bold"
       }
     },
@@ -1032,7 +1031,7 @@
       "name": "Md - underline",
       "scope": ["markup.underline"],
       "settings": {
-        // "foreground": "#FF0000",
+        // "foreground": "#ff7575",
         "fontStyle": "underline"
       }
     },
@@ -1040,7 +1039,7 @@
       "name": "Md - link",
       "scope": ["markup.underline.link"],
       "settings": {
-        "foreground": "#FF0000",
+        "foreground": "#75ccff",
         "fontStyle": "underline"
       }
     },
@@ -1048,7 +1047,7 @@
       "name": "Md - bold",
       "scope": ["markup.bold"],
       "settings": {
-        // "foreground": "#FF0000",
+        // "foreground": "#ff7575",
         "fontStyle": "bold"
       }
     },
@@ -1056,7 +1055,7 @@
       "name": "Md - heading",
       "scope": ["markup.heading"],
       "settings": {
-        "foreground": "#FF0000"
+        "foreground": "#ffef75"
         // "fontStyle": "underline"
       }
     },
@@ -1064,7 +1063,7 @@
       "name": "Md - italic",
       "scope": ["markup.italic"],
       "settings": {
-        // "foreground": "#FF0000",
+        // "foreground": "#ff7575",
         "fontStyle": "italic"
       }
     },
@@ -1096,7 +1095,7 @@
       "name": "Md - other",
       "scope": ["markup.other"],
       "settings": {
-        "foreground": "#FF0000"
+        "foreground": "#ff7575"
         // "fontStyle": "underline"
       }
     },
@@ -1104,7 +1103,7 @@
       "name": "Md - changed",
       "scope": ["markup.changed"],
       "settings": {
-        "foreground": "#FF0000"
+        "foreground": "#ffba75"
         // "fontStyle": "underline"
       }
     },
@@ -1112,7 +1111,7 @@
       "name": "Md - inserted",
       "scope": ["markup.inserted"],
       "settings": {
-        "foreground": "#FF0000"
+        "foreground": "#75ffac"
         // "fontStyle": "underline"
       }
     },
@@ -1120,7 +1119,7 @@
       "name": "Md - deleted",
       "scope": ["markup.deleted"],
       "settings": {
-        "foreground": "#FF0000"
+        "foreground": "#ff7575"
         // "fontStyle": "underline"
       }
     },
@@ -1144,7 +1143,7 @@
     //   "name": "Meta",
     //   "scope": ["meta"],
     //   "settings": {
-    //     "foreground": "#FF0000"
+    //     "foreground": "#ff7575"
     //     // "fontStyle": "underline"
     //   }
     // },
@@ -1152,7 +1151,7 @@
     //   "name": "Meta",
     //   "scope": ["meta.object-literal.key"],
     //   "settings": {
-    //     "foreground": "#FF0000"
+    //     "foreground": "#ff7575"
     //     // "fontStyle": "underline"
     //   }
     // },
@@ -1596,7 +1595,7 @@
     {
       "name": "Log file error",
       "scope": ["log.error"],
-      "settings": { "foreground": "#ff000000", "fontStyle": "bold" }
+      "settings": { "foreground": "#ff7575", "fontStyle": "bold" }
     },
     {
       "name": "Log file warning",
@@ -1842,97 +1841,97 @@
           event	                            variable.other.event
   -------------------------------------------------------*/
   "semanticTokenColors": {
-    // "*.abstract": "#ff0000",
-    // "*.async": "#ff0000",
-    // "*.attribute": "#ff0000"
-    // "*.callable": "#ff0000",
-    // "*.constant": "#ff0000",
-    // "*.consuming": "#ff0000",
-    // "*.controlFlow": "#ff0000",
-    // "*.crateRoot": "#ff0000",
-    // "*.declaration": "#ff0000",
-    // "*.deprecated": "#ff0000",
-    // "*.documentation": "#ff0000",
-    // "*.global": "#ff0000",
-    // "*.injected": "#ff0000",
-    // "*.intraDocLink": "#ff0000",
-    // "*.library": "#ff0000",
-    // "*.local": "#ff0000",
-    // "*.modification": "#ff0000",
-    // "*.mutable": "#ff0000",
-    // "*.public": "#ff0000",
-    // "*.readonly": "#ff0000",
-    // "*.reference": "#ff0000",
-    // "*.static": "#ff0000",
-    // "*.trait": "#ff0000",
-    // "*.unsafe": "#ff0000",
-    // "angle": "#ff0000",
-    // "arithmetic": "#ff0000",
-    // "attribute": "#ff0000",
-    // "attributeBracket": "#ff0000",
-    // "bitwise": "#ff0000",
-    // "boolean": "#ff0000",
-    // "brace": "#ff0000",
-    // "bracket": "#ff0000",
-    // "builtinAttribute": "#ff0000",
-    // "builtinType": "#ff0000",
-    // "char": "#ff0000",
-    // "class": "#ff0000",
-    // "cliProperty": "#ff0000",
-    // "colon": "#ff0000",
-    // "comma": "#ff0000",
-    // "comment": "#ff0000",
-    // "comparison": "#ff0000",
-    // "constParameter": "#ff0000",
-    // "customLiteral": "#ff0000",
-    // "decorator": "#ff0000",
-    // "derive": "#ff0000",
-    // "dot": "#ff0000",
-    // "enum": "#ff0000",
-    // "enumMember": "#ff0000",
-    // "escapeSequence": "#ff0000",
-    // "event": "#ff0000",
-    // "formatSpecifier": "#ff0000",
-    // "function": "#ff0000",
-    // "genericType": "#ff0000",
-    // "interface": "#ff0000",
-    // "keyword": "#ff0000",
-    // "label": "#ff0000",
-    // "lifetime": "#ff0000",
-    // "logical": "#ff0000",
-    // "macro": "#ff0000",
-    // "macroBang": "#ff0000",
-    // "memberOperatorOverload": "#ff0000",
-    // "method": "#ff0000",
-    // "namespace": "#ff0000",
-    // "newOperator": "#ff0000",
-    // "number": "#ff0000",
-    // "numberLiteral": "#ff0000",
-    // "operator": "#ff0000",
-    // "operatorOverload": "#ff0000",
-    // "parameter": "#ff0000"
-    // "parenthesis": "#ff0000",
+    // "*.abstract": "#ff7575",
+    // "*.async": "#ff7575",
+    // "*.attribute": "#ff7575"
+    // "*.callable": "#ff7575",
+    // "*.constant": "#ff7575",
+    // "*.consuming": "#ff7575",
+    // "*.controlFlow": "#ff7575",
+    // "*.crateRoot": "#ff7575",
+    // "*.declaration": "#ff7575",
+    // "*.deprecated": "#ff7575",
+    // "*.documentation": "#ff7575",
+    // "*.global": "#ff7575",
+    // "*.injected": "#ff7575",
+    // "*.intraDocLink": "#ff7575",
+    // "*.library": "#ff7575",
+    // "*.local": "#ff7575",
+    // "*.modification": "#ff7575",
+    // "*.mutable": "#ff7575",
+    // "*.public": "#ff7575",
+    // "*.readonly": "#ff7575",
+    // "*.reference": "#ff7575",
+    // "*.static": "#ff7575",
+    // "*.trait": "#ff7575",
+    // "*.unsafe": "#ff7575",
+    // "angle": "#ff7575",
+    // "arithmetic": "#ff7575",
+    // "attribute": "#ff7575",
+    // "attributeBracket": "#ff7575",
+    // "bitwise": "#ff7575",
+    // "boolean": "#ff7575",
+    // "brace": "#ff7575",
+    // "bracket": "#ff7575",
+    // "builtinAttribute": "#ff7575",
+    // "builtinType": "#ff7575",
+    // "char": "#ff7575",
+    // "class": "#ff7575",
+    // "cliProperty": "#ff7575",
+    // "colon": "#ff7575",
+    // "comma": "#ff7575",
+    // "comment": "#ff7575",
+    // "comparison": "#ff7575",
+    // "constParameter": "#ff7575",
+    // "customLiteral": "#ff7575",
+    // "decorator": "#ff7575",
+    // "derive": "#ff7575",
+    // "dot": "#ff7575",
+    // "enum": "#ff7575",
+    // "enumMember": "#ff7575",
+    // "escapeSequence": "#ff7575",
+    // "event": "#ff7575",
+    // "formatSpecifier": "#ff7575",
+    // "function": "#ff7575",
+    // "genericType": "#ff7575",
+    // "interface": "#ff7575",
+    // "keyword": "#ff7575",
+    // "label": "#ff7575",
+    // "lifetime": "#ff7575",
+    // "logical": "#ff7575",
+    // "macro": "#ff7575",
+    // "macroBang": "#ff7575",
+    // "memberOperatorOverload": "#ff7575",
+    // "method": "#ff7575",
+    // "namespace": "#ff7575",
+    // "newOperator": "#ff7575",
+    // "number": "#ff7575",
+    // "numberLiteral": "#ff7575",
+    // "operator": "#ff7575",
+    // "operatorOverload": "#ff7575",
+    // "parameter": "#ff7575"
+    // "parenthesis": "#ff7575",
     // "property": "#abb6cc",
     "property.declaration": "#e6e6e6",
-    // "punctuation": "#ff0000",
-    // "referenceType": "#ff0000",
-    // "regexp": "#ff0000",
-    // "selfKeyword": "#ff0000",
-    // "selfTypeKeyword": "#ff0000",
-    // "semicolon": "#ff0000",
-    // "string": "#ff0000",
-    // "stringLiteral": "#ff0000",
-    // "struct": "#ff0000",
-    // "templateFunction": "#ff0000",
-    // "templateType": "#ff0000",
-    // "tomlArrayKey": "#ff0000",
-    // "tomlTableKey": "#ff0000",
-    // "type": "#ff0000",
-    // "typeAlias": "#ff0000",
-    // "typeParameter": "#ff0000",
-    // "union": "#ff0000",
-    // "unresolvedReference": "#ff0000",
-    // "valueType": "#ff0000",
+    // "punctuation": "#ff7575",
+    // "referenceType": "#ff7575",
+    // "regexp": "#ff7575",
+    // "selfKeyword": "#ff7575",
+    // "selfTypeKeyword": "#ff7575",
+    // "semicolon": "#ff7575",
+    // "string": "#ff7575",
+    // "stringLiteral": "#ff7575",
+    // "struct": "#ff7575",
+    // "templateFunction": "#ff7575",
+    // "templateType": "#ff7575",
+    // "tomlArrayKey": "#ff7575",
+    // "tomlTableKey": "#ff7575",
+    // "type": "#ff7575",
+    // "typeAlias": "#ff7575",
+    // "typeParameter": "#ff7575",
+    // "union": "#ff7575",
+    // "unresolvedReference": "#ff7575",
+    // "valueType": "#ff7575",
     "variable": "#99cebd",
     "variable.defaultLibrary": "#d3b88e",
     "variable.declaration.local": "#99cebd"
