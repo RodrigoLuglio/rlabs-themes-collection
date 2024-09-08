@@ -2,7 +2,7 @@
   "name": "rlabs-theme-collection",
   "displayName": "RLabs Themes Collection",
   "description": "A collection of VSCode themes made by RLabs Inc.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "publisher": "RLabsInc",
   "icon": "images/RLabs-Lamp.png",
   "engines": {
