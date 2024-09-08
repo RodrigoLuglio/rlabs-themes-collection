@@ -12,3 +12,7 @@
 ### 0.0.2
 
 - Added some screenshots of the current themes.
+
+### 0.0.5
+
+- New DL theme.

@@ -1,8 +1,8 @@
 {
   "name": "rlabs-theme-collection",
-  "displayName": "RLabs Theme Collection",
+  "displayName": "RLabs Themes Collection",
   "description": "A collection of VSCode themes made by RLabs Inc.",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "RLabsInc",
   "icon": "images/RLabs-Lamp.png",
   "engines": {
@@ -13,6 +13,11 @@
   ],
   "contributes": {
     "themes": [
+      {
+        "label": "RLabs DL",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DL-color-theme.json"
+      },
       {
         "label": "RLabs Earth",
         "uiTheme": "vs-dark",
@@ -47,6 +52,41 @@
         "label": "RLabs Blue",
         "uiTheme": "vs-dark",
         "path": "./themes/Blue-color-theme.json"
+      },
+      {
+        "label": "Candy Earth",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CandyEarth-color-theme.json"
+      },
+      {
+        "label": "Candy Forrest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CandyForrest-color-theme.json"
+      },
+      {
+        "label": "Fairy Earth",
+        "uiTheme": "vs-dark",
+        "path": "./themes/FairyEarth-color-theme.json"
+      },
+      {
+        "label": "Mono Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MonoGreen-color-theme.json"
+      },
+      {
+        "label": "Purple Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PurpleBlue-color-theme.json"
+      },
+      {
+        "label": "Purple Blue 2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PurpleBlue-2-color-theme.json"
+      },
+      {
+        "label": "Rose Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/RoseGreen-color-theme.json"
       }
     ]
   },

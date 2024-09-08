@@ -2,6 +2,8 @@
 
 A collection of themes made by RLabs Inc.
 
+_New themes added!!_
+
 ## Earth
 
 #### React
