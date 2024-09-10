@@ -2,7 +2,7 @@
   "name": "rlabs-theme-collection",
   "displayName": "RLabs Themes Collection",
   "description": "A collection of VSCode themes made by RLabs Inc.",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "publisher": "RLabsInc",
   "icon": "images/RLabs-Lamp.png",
   "engines": {
@@ -13,11 +13,6 @@
   ],
   "contributes": {
     "themes": [
-      {
-        "label": "RLabs DL",
-        "uiTheme": "vs-dark",
-        "path": "./themes/DL-color-theme.json"
-      },
       {
         "label": "RLabs Earth",
         "uiTheme": "vs-dark",
@@ -54,39 +49,214 @@
         "path": "./themes/Blue-color-theme.json"
       },
       {
-        "label": "Candy Earth",
+        "label": "RLabs Golden Night Garden",
         "uiTheme": "vs-dark",
-        "path": "./themes/CandyEarth-color-theme.json"
+        "path": "./themes/GoldenNightGarden-color-theme.json"
       },
       {
-        "label": "Candy Forrest",
+        "label": "RLabs Mystic Forrest",
         "uiTheme": "vs-dark",
-        "path": "./themes/CandyForrest-color-theme.json"
+        "path": "./themes/MysticForrest-color-theme.json"
       },
       {
-        "label": "Fairy Earth",
+        "label": "RLabs Greenie Gnome",
         "uiTheme": "vs-dark",
-        "path": "./themes/FairyEarth-color-theme.json"
+        "path": "./themes/GreenieGnome-color-theme.json"
       },
       {
-        "label": "Mono Green",
+        "label": "RLabs BlueBerry Dream",
         "uiTheme": "vs-dark",
-        "path": "./themes/MonoGreen-color-theme.json"
+        "path": "./themes/BlueberryDream-color-theme.json"
       },
       {
-        "label": "Purple Blue",
+        "label": "RLabs Citric Juice",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CitricJuice-color-theme.json"
+      },
+      {
+        "label": "RLabs Grapeyard",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Grapeyard-color-theme.json"
+      },
+      {
+        "label": "RLabs Blue Cave",
+        "uiTheme": "vs-dark",
+        "path": "./themes/BlueCave-color-theme.json"
+      },
+      {
+        "label": "RLabs Rusty Bronze",
+        "uiTheme": "vs-dark",
+        "path": "./themes/RustyBronze-color-theme.json"
+      },
+      {
+        "label": "RLabs Acid Vision",
+        "uiTheme": "vs-dark",
+        "path": "./themes/AcidVision-color-theme.json"
+      },
+      {
+        "label": "RLabs Purple Blue",
         "uiTheme": "vs-dark",
         "path": "./themes/PurpleBlue-color-theme.json"
       },
       {
-        "label": "Purple Blue 2",
+        "label": "RLabs Purple Blue 2",
         "uiTheme": "vs-dark",
         "path": "./themes/PurpleBlue-2-color-theme.json"
       },
       {
-        "label": "Rose Green",
+        "label": "RLabs Green Light",
         "uiTheme": "vs-dark",
-        "path": "./themes/RoseGreen-color-theme.json"
+        "path": "./themes/GreenLight-color-theme.json"
+      },
+      {
+        "label": "RLabs Dracula Thomb",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DraculaThomb-color-theme.json"
+      },
+      {
+        "label": "RLabs Deep Ocean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DeepOcean-color-theme.json"
+      },
+      {
+        "label": "RLabs Wine Cellar",
+        "uiTheme": "vs-dark",
+        "path": "./themes/WineCellar-color-theme.json"
+      },
+      {
+        "label": "RLabs Green Light 2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/GreenLight-2-color-theme.json"
+      },
+      {
+        "label": "RLabs Bloody Wine",
+        "uiTheme": "vs-dark",
+        "path": "./themes/BloodyWine-color-theme.json"
+      },
+      {
+        "label": "RLabs Rusty Lemonade",
+        "uiTheme": "vs-dark",
+        "path": "./themes/RustyLemonade-color-theme.json"
+      },
+      {
+        "label": "RLabs Blue Forrest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/BlueForrest-color-theme.json"
+      },
+      {
+        "label": "RLabs Citric Earth",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CitricEarth-color-theme.json"
+      },
+      {
+        "label": "RLabs Purple Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PurpleGreen-color-theme.json"
+      },
+      {
+        "label": "RLabs Night Knight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NightKnight-color-theme.json"
+      },
+      {
+        "label": "RLabs Neon Forrest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NeonForrest-color-theme.json"
+      },
+      {
+        "label": "RLabs Grape Bubblegum",
+        "uiTheme": "vs-dark",
+        "path": "./themes/GrapeBubblegum-color-theme.json"
+      },
+      {
+        "label": "RLabs Earth Bright Yellow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/EarthBrightYellow-color-theme.json"
+      },
+      {
+        "label": "RLabs Underground Candy River",
+        "uiTheme": "vs-dark",
+        "path": "./themes/UndergroundCandyRiver-color-theme.json"
+      },
+      {
+        "label": "RLabs Watermelon River Forrest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/WatermelonRiverForrest-color-theme.json"
+      },
+      {
+        "label": "RLabs Candy Ocean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CandyOcean-color-theme.json"
+      },
+      {
+        "label": "RLabs Royal Blood",
+        "uiTheme": "vs-dark",
+        "path": "./themes/RoyalBlood-color-theme.json"
+      },
+      {
+        "label": "RLabs Gold Cave",
+        "uiTheme": "vs-dark",
+        "path": "./themes/GoldCave-color-theme.json"
+      },
+      {
+        "label": "RLabs Sunny Wine",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SunnyWine-color-theme.json"
+      },
+      {
+        "label": "RLabs Candy Rock",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CandyRock-color-theme.json"
+      },
+      {
+        "label": "RLabs Wineon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Wineon-color-theme.json"
+      },
+      {
+        "label": "RLabs Strawberry Brownie",
+        "uiTheme": "vs-dark",
+        "path": "./themes/StrawberryBrownie-color-theme.json"
+      },
+      {
+        "label": "RLabs Dreammy Blue Forrest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DreammyBlueForrest-color-theme.json"
+      },
+      {
+        "label": "RLabs Purple River Dream",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PurpleRiverDream-color-theme.json"
+      },
+      {
+        "label": "RLabs Magic Water Forrest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MagicWaterForrest-color-theme.json"
+      },
+      {
+        "label": "RLabs Bloody Wine Candy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/BloodyWineCandy-color-theme.json"
+      },
+      {
+        "label": "RLabs Blue Ocean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/BlueOcean-color-theme.json"
+      },
+      {
+        "label": "RLabs Lemon Tangie Cotton Candy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/LemonTangieCottonCandy-color-theme.json"
+      },
+      {
+        "label": "RLabs Deep Green Forrest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DeepGreenForrest-color-theme.json"
+      },
+      {
+        "label": "RLabs Gnome Cave",
+        "uiTheme": "vs-dark",
+        "path": "./themes/GnomeCave-color-theme.json"
       }
     ]
   },

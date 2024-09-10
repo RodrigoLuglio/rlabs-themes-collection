@@ -2,7 +2,7 @@
 
 A collection of themes made by RLabs Inc.
 
-_New themes added!!_
+_New themes added!! The new themes were generated using the [VSCode themes generator app](https://rodrigoluglio.github.io/vscode-theme-generator/)_
 
 ## Earth
 
