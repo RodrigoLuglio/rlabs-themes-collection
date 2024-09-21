@@ -2,7 +2,7 @@
   "name": "rlabs-theme-collection",
   "displayName": "RLabs Themes Collection",
   "description": "A collection of VSCode themes made by RLabs Inc.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "RLabsInc",
   "icon": "images/RLabs-Lamp.png",
   "engines": {
@@ -237,46 +237,6 @@
         "label": "RLabs Generated Theme 8",
         "uiTheme": "vs-dark",
         "path": "./themes/RLabsGenerated-8-color-theme.json"
-      },
-      {
-        "label": "Generated Theme 1",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Generated-color-theme.json"
-      },
-      {
-        "label": "Generated Theme 2",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Generated-2-color-theme.json"
-      },
-      {
-        "label": "Generated Theme 3",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Generated-3-color-theme.json"
-      },
-      {
-        "label": "Generated Theme 4",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Generated-4-color-theme.json"
-      },
-      {
-        "label": "Generated Theme 5",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Generated-5-color-theme.json"
-      },
-      {
-        "label": "Generated Theme 6",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Generated-6-color-theme.json"
-      },
-      {
-        "label": "Generated Theme 7",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Generated-7-color-theme.json"
-      },
-      {
-        "label": "Generated Theme 8",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Generated-8-color-theme.json"
       }
     ]
   },
