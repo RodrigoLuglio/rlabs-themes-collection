@@ -1,8 +1,14 @@
 # RLabs themes collection for VSCode
 
+[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/editor/theme/RLabsInc.rlabs-theme-collection)
+
 A collection of themes made by RLabs Inc.
 
-_New themes added!! The new themes were generated using the [VSCode themes generator app](https://rodrigoluglio.github.io/vscode-theme-generator/)_
+**Lots of new themes added!!**
+
+**You can preview them all using Microsoft's official [VScode Theme Preview](https://vscode.dev/editor/theme/RLabsInc.rlabs-theme-collection)**
+
+- The new themes were generated using the [VSCode themes generator app](https://rodrigoluglio.github.io/vscode-theme-generator/) - it is a web app where you can generate all theme and syntax colors randomly using various color schmes like monochromatic, analogous, complimentary, split-complimentary, triadic and tetradic. In adition to these traditional color schemes I came up with an algorithm to generate the theme colors based on sacred geometry using some known patterns. There is also the possibility to choose a base color and a color scheme to generate the colors, edit each color to your taste and once you're satisfied with the result export the VSCode theme as a JSON file ready to use or publish as an extension in the Marketplace. The theme preview in the web app is a work in progress and does not reflect all color and semantic tokens used on the theme, the code is on github and contributuions are more than welcome, specially on the Theme preview component.
 
 ## Earth
 
