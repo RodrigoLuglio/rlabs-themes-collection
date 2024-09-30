@@ -237,6 +237,86 @@
         "label": "RLabs Generated Theme 8",
         "uiTheme": "vs-dark",
         "path": "./themes/RLabsGenerated-8-color-theme.json"
+      },
+      {
+        "label": "Generated Theme 1",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Generated-color-theme.json"
+      },
+      {
+        "label": "Generated Theme 2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Generated-color-theme-2.json"
+      },
+      {
+        "label": "Generated Theme 3",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Generated-color-theme-3.json"
+      },
+      {
+        "label": "Generated Theme 4",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Generated-color-theme-4.json"
+      },
+      {
+        "label": "Generated Theme 5",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Generated-color-theme-5.json"
+      },
+      {
+        "label": "Generated Theme 6",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Generated-color-theme-6.json"
+      },
+      {
+        "label": "Generated Theme 7",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Generated-color-theme-7.json"
+      },
+      {
+        "label": "Generated Theme 8",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Generated-color-theme-8.json"
+      },
+      {
+        "label": "Generated Theme 9",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Generated-color-theme-9.json"
+      },
+      {
+        "label": "Generated Theme 10",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Generated-color-theme-10.json"
+      },
+      {
+        "label": "Generated Theme 11",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Generated-color-theme-11.json"
+      },
+      {
+        "label": "Generated Theme 12",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Generated-color-theme-12.json"
+      },
+      {
+        "label": "Generated Theme 13",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Generated-color-theme-13.json"
+      },
+      {
+        "label": "Generated Theme 14",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Generated-color-theme-14.json"
+      },
+      {
+        "label": "Generated Theme 55",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Generated-color-theme-55.json"
+      },
+      {
+        "label": "Generated Theme 54",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Generated-color-theme-54.json"
       }
     ]
   },
