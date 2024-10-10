@@ -199,6 +199,121 @@
         "path": "./themes/DualForrest-color-theme.json"
       },
       {
+        "label": "RLabs Strawberry Bush",
+        "uiTheme": "vs-dark",
+        "path": "./themes/StrawberryBush-color-theme.json"
+      },
+      {
+        "label": "RLabs Greenie Blood",
+        "uiTheme": "vs-dark",
+        "path": "./themes/GreenieBlood-color-theme.json"
+      },
+      {
+        "label": "RLabs Lemon Tree",
+        "uiTheme": "vs-dark",
+        "path": "./themes/LemonTree-color-theme.json"
+      },
+      {
+        "label": "RLabs Deep Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DeepPurple-color-theme.json"
+      },
+      {
+        "label": "RLabs Pink Sea",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PinkSea-color-theme.json"
+      },
+      {
+        "label": "RLabs Paper Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PaperBlue-color-theme.json"
+      },
+      {
+        "label": "RLabs Paper Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PaperGreen-color-theme.json"
+      },
+      {
+        "label": "RLabs Vampire Castle",
+        "uiTheme": "vs-dark",
+        "path": "./themes/VampireCastle-color-theme.json"
+      },
+      {
+        "label": "RLabs Confy Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ConfyGreen-color-theme.json"
+      },
+      {
+        "label": "RLabs Confy Green 2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ConfyGreen2-color-theme.json"
+      },
+      {
+        "label": "RLabs Confy Green 3",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ConfyGreen3-color-theme.json"
+      },
+      {
+        "label": "RLabs Confy Green 4",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ConfyGreen4-color-theme.json"
+      },
+      {
+        "label": "RLabs Confy Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ConfyBlue-color-theme.json"
+      },
+      {
+        "label": "RLabs Royal Vamp",
+        "uiTheme": "vs-dark",
+        "path": "./themes/RoyalVamp-color-theme.json"
+      },
+      {
+        "label": "RLabs Deep Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DeepDark-color-theme.json"
+      },
+      {
+        "label": "RLabs Yellow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Yellow-color-theme.json"
+      },
+      {
+        "label": "RLabs Dracula-ish",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Draculaish-color-theme.json"
+      },
+      {
+        "label": "RLabs Candy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Candy-color-theme.json"
+      },
+      {
+        "label": "RLabs Brownie Paper",
+        "uiTheme": "vs-dark",
+        "path": "./themes/BrowniePaper-color-theme.json"
+      },
+      {
+        "label": "RLabs Red Mono",
+        "uiTheme": "vs-dark",
+        "path": "./themes/RedMono-color-theme.json"
+      },
+      {
+        "label": "RLabs Paper Water",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PaperWater-color-theme.json"
+      },
+      {
+        "label": "RLabs RGB",
+        "uiTheme": "vs-dark",
+        "path": "./themes/RGB-color-theme.json"
+      },
+      {
+        "label": "RLabs Jelly Brown",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JellyBrown-color-theme.json"
+      },
+      {
         "label": "RLabs Gnome Night",
         "uiTheme": "vs-dark",
         "path": "./themes/GnomeNight-color-theme.json"
@@ -237,86 +352,6 @@
         "label": "RLabs Generated Theme 8",
         "uiTheme": "vs-dark",
         "path": "./themes/RLabsGenerated-8-color-theme.json"
-      },
-      {
-        "label": "Generated Theme 1",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Generated-color-theme.json"
-      },
-      {
-        "label": "Generated Theme 2",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Generated-color-theme-2.json"
-      },
-      {
-        "label": "Generated Theme 3",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Generated-color-theme-3.json"
-      },
-      {
-        "label": "Generated Theme 4",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Generated-color-theme-4.json"
-      },
-      {
-        "label": "Generated Theme 5",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Generated-color-theme-5.json"
-      },
-      {
-        "label": "Generated Theme 6",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Generated-color-theme-6.json"
-      },
-      {
-        "label": "Generated Theme 7",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Generated-color-theme-7.json"
-      },
-      {
-        "label": "Generated Theme 8",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Generated-color-theme-8.json"
-      },
-      {
-        "label": "Generated Theme 9",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Generated-color-theme-9.json"
-      },
-      {
-        "label": "Generated Theme 10",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Generated-color-theme-10.json"
-      },
-      {
-        "label": "Generated Theme 11",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Generated-color-theme-11.json"
-      },
-      {
-        "label": "Generated Theme 12",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Generated-color-theme-12.json"
-      },
-      {
-        "label": "Generated Theme 13",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Generated-color-theme-13.json"
-      },
-      {
-        "label": "Generated Theme 14",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Generated-color-theme-14.json"
-      },
-      {
-        "label": "Generated Theme 55",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Generated-color-theme-55.json"
-      },
-      {
-        "label": "Generated Theme 54",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Generated-color-theme-54.json"
       }
     ]
   },
